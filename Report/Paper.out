@@ -1,8 +1,0 @@
-\BOOKMARK [1][-]{section.1}{Problem formulation}{}% 1
-\BOOKMARK [1][-]{section.2}{Convolutional LSTMs}{}% 2
-\BOOKMARK [1][-]{section.3}{Experiments and results}{}% 3
-\BOOKMARK [2][-]{subsection.3.1}{Simple LSTM learned on embeddings of images}{section.3}% 4
-\BOOKMARK [2][-]{subsection.3.2}{Convolutional LSTM on raw images}{section.3}% 5
-\BOOKMARK [2][-]{subsection.3.3}{Convolutional LSTM with CNN and attention with preprocessed images}{section.3}% 6
-\BOOKMARK [2][-]{subsection.3.4}{Convolutional LSTM on Fourier transform}{section.3}% 7
-\BOOKMARK [1][-]{section.4}{Conclusion}{}% 8
