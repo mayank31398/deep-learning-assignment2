@@ -1,4 +1,4 @@
-# Deep learning assignment 3
+# Deep learning assignment 2
 ## ELL888
 ### Indian Institute of Technology Delhi
 
