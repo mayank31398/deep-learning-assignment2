@@ -5,3 +5,5 @@
 I thank Professor Prathosh AP (IIT Delhi) for providing the NPTEL videos annotated dataset.
 
 This repository contains an implementation of Convolutional LSTM to for identifyiong which keyframes (images) to save for summarizing a lecture given its video.
+
+The report can be found [here](Report/Report.pdf).
